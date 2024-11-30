@@ -36,7 +36,7 @@ m 行，每行一个整数，为最接近相应给定值的元素值，保持输
 
 2.九九乘法表
 
-![九九乘法表](../img/in-post/九九乘法表.jpg "简简单单乘法表")
+![九九乘法表](https://raw.githubusercontent.com/Fightingshine/Fightingshine.github.io/refs/heads/master/img/in-post/%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A8.jpg "简简单单乘法表")
 
 在屏幕上规范的输出九九乘法表的内容（注意对其），同时输出上三角和下三角的信息内容。（5分）
 
